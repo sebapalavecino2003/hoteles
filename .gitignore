@@ -7,3 +7,4 @@ frontend/dist/
 .env
 .pytest_cache/
 .coverage
+backup-config/
